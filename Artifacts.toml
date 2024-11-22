@@ -1,0 +1,74 @@
+[[Aeron]]
+arch = "aarch64"
+git-tree-sha1 = "641fea25a22cd032a840e7df8a01d780b8adb7d5"
+os = "macos"
+
+    [[Aeron.download]]
+    sha256 = "815d3935f48e082ff4d8dfeace3ccba07907b60d6aa975704d46ea09e1f09119"
+    url = "https://github.com/DarrylGamroth/Aeron_jll.jl/releases/download/Aeron-v1.47.0+0/Aeron.v1.47.0.aarch64-apple-darwin.tar.gz"
+[[Aeron]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "62aaeb383d262a6391a4ad1d72f62f1e5b1f766a"
+libc = "glibc"
+os = "linux"
+
+    [[Aeron.download]]
+    sha256 = "11138dd9e690662fecdf50c1739583d33fbb3c60785e8afae9c9e70b46a8997b"
+    url = "https://github.com/DarrylGamroth/Aeron_jll.jl/releases/download/Aeron-v1.47.0+0/Aeron.v1.47.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Aeron]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d59f14c5dcc0ef3066fa2711d07105722ce9f95b"
+libc = "glibc"
+os = "linux"
+
+    [[Aeron.download]]
+    sha256 = "5667ae12ee084df06cf03defff566fe9a94021c36056469f4fc2a2488f66bce4"
+    url = "https://github.com/DarrylGamroth/Aeron_jll.jl/releases/download/Aeron-v1.47.0+0/Aeron.v1.47.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Aeron]]
+arch = "x86_64"
+git-tree-sha1 = "75b8e1c6db7fd7c413f3d70b6a931c26bf9a46f7"
+os = "macos"
+
+    [[Aeron.download]]
+    sha256 = "1310474e0db4feb932683060c78b1d14572023082a436eb284c6e9d670f5f6eb"
+    url = "https://github.com/DarrylGamroth/Aeron_jll.jl/releases/download/Aeron-v1.47.0+0/Aeron.v1.47.0.x86_64-apple-darwin.tar.gz"
+[[Aeron]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "00869dcabb6b42dc6d00a64d444741b08f66e8b6"
+libc = "glibc"
+os = "linux"
+
+    [[Aeron.download]]
+    sha256 = "7c85a07fd4313dc0c3a2055b25b63c727b7ff4776efe8258ec0f6c87e9b4b68f"
+    url = "https://github.com/DarrylGamroth/Aeron_jll.jl/releases/download/Aeron-v1.47.0+0/Aeron.v1.47.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Aeron]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4451b77a562ac3cb72b329286631dacafaa0f087"
+libc = "glibc"
+os = "linux"
+
+    [[Aeron.download]]
+    sha256 = "840f380d1f04cc26b5ac8c52989ba0ad8d3bf06446ae7e560f3d114190225d6e"
+    url = "https://github.com/DarrylGamroth/Aeron_jll.jl/releases/download/Aeron-v1.47.0+0/Aeron.v1.47.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Aeron]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7989e7e7846d836a9903b802f8b758ea95596e9c"
+os = "windows"
+
+    [[Aeron.download]]
+    sha256 = "1cf67caa59349f7414f52295ca811d50001db73a7a683e7d367c2c7cbb03dd92"
+    url = "https://github.com/DarrylGamroth/Aeron_jll.jl/releases/download/Aeron-v1.47.0+0/Aeron.v1.47.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Aeron]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cde5730bd9d45be3751986183c257ae43e815ee5"
+os = "windows"
+
+    [[Aeron.download]]
+    sha256 = "2d10dfda33dc30a980a29d971596a6d7783d8376a8f430f1211a3fdbf09177ee"
+    url = "https://github.com/DarrylGamroth/Aeron_jll.jl/releases/download/Aeron-v1.47.0+0/Aeron.v1.47.0.x86_64-w64-mingw32-cxx11.tar.gz"
