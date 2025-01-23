@@ -1,6 +1,6 @@
 name = "Aeron_jll"
 uuid = "d964258c-d1ad-568a-aca9-3ef511f5bffd"
-version = "1.47.0+0"
+version = "1.47.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
